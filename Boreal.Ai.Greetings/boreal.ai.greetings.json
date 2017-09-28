@@ -1,0 +1,12 @@
+{
+    "description": "boreal.ai.greetings",
+    "intents": [
+      {
+        "intentName": "greet.user", "utterances": [
+          {
+            "utterance": "||Hello,Hi,Hi there,Greetings|| <<{{username}}>>"
+          }
+        ]
+      }
+    ]
+  }
